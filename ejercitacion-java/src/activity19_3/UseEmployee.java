@@ -12,5 +12,6 @@ public class UseEmployee {
 		dir1.takeDecision("Pagar horas extras");
 		of1.superviseOperators();
 		tec1.repairMachine("Transportadora");
+		System.out.println(tec1.toString());
 	}
 }
