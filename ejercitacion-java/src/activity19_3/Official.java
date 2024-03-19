@@ -15,9 +15,4 @@ public class Official extends Operator {
 	public void operateMachinery(String machine) {
 		System.out.println("El oficial va a utilizar: " + machine);
 	}
-	
-	@Override
-	public String toString() {
-		return "Usted es un oficial";
-	}
 }
