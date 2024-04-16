@@ -7,3 +7,4 @@
 - Ejercitacion 04/04 (proyect_game)
 - Ejercitacion 09/04 (agregacion, asociacion, composicion)
 - Trabajo Practico N° 2 (biblioteca, tienda_mascotas)
+- Ejercitacion 16/04 (exercise)
